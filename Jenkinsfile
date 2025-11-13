@@ -2,29 +2,27 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
 
         stage('Build') {
             steps {
-                echo "Deploy da Vinheria"
+                echo "Iniciando build"
+                bat "echo Build executado com sucesso!"
             }
         }
 
         stage('Deploy') {
             steps {
                 script {
-                    def deployPath = "C:/VinheriaPublicacao"
-
-                    if (!fileExists(deployPath)) {
-                        bat "mkdir ${deployPath}"
-                    }
+                    def deployPath = "C:\\VinheriaPublicacao"
 
                     bat """
-                        xcopy /E /I /Y * ${deployPath}
+                    if not exist "${deployPath}\\" (
+                        mkdir "${deployPath}"
+                    )
+                    """
+
+                    bat """
+                    xcopy "%WORKSPACE%\\*" "${deployPath}\\" /E /I /Y
                     """
                 }
             }
@@ -33,10 +31,10 @@ pipeline {
 
     post {
         success {
-            echo "Deploy finalizado com sucesso!"
+            echo "Pipeline finalizado."
         }
         failure {
-            echo "Erro no deploy!"
+            echo "Erro no deploy."
         }
     }
 }
