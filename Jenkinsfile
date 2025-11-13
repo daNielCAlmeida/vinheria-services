@@ -1,16 +1,19 @@
 pipeline {
     agent any
+
     stages {
         stage('Checkout') {
             steps {
                 checkout scm
             }
         }
+
         stage('Build') {
             steps {
                 echo "Deploy da Vinheria"
             }
         }
+
         stage('Deploy') {
             steps {
                 script {
@@ -19,6 +22,7 @@ pipeline {
                     if (!fileExists(deployPath)) {
                         bat "mkdir ${deployPath}"
                     }
+
                     bat """
                         xcopy /E /I /Y * ${deployPath}
                     """
@@ -26,12 +30,13 @@ pipeline {
             }
         }
     }
+
     post {
         success {
-            echo "Deploy finalizado."
+            echo "Deploy finalizado com sucesso!"
         }
         failure {
-            echo "Erro no deploy."
+            echo "Erro no deploy!"
         }
     }
 }
