@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\FIAP\\Vinheria_Services\\VinheriaInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0628DBD8-FC02-43B7-90E6-9E07BAE4C17F}|VinheriaInventory\\VinheriaInventory.csproj|c:\\users\\danie\\onedrive\\desktop\\fiap\\vinheria_services\\vinheriainventory\\vinheriainventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0628DBD8-FC02-43B7-90E6-9E07BAE4C17F}|VinheriaInventory\\VinheriaInventory.csproj|solutionrelative:vinheriainventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\FIAP\\Vinheria_Services\\VinheriaInventory\\VinheriaInventory\\Program.cs",
+              "RelativeDocumentMoniker": "VinheriaInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\FIAP\\Vinheria_Services\\VinheriaInventory\\VinheriaInventory\\Program.cs",
+              "RelativeToolTip": "VinheriaInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:41:01.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

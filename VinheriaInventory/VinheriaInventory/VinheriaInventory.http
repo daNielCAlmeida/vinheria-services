@@ -1,0 +1,6 @@
+@VinheriaInventory_HostAddress = http://localhost:5034
+
+GET {{VinheriaInventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

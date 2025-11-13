@@ -1,0 +1,6 @@
+@VinheriaProductionManagement_HostAddress = http://localhost:5038
+
+GET {{VinheriaProductionManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

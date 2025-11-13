@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaAuthService\VinheriaAuthService\obj\Debug\net8.0\VinheriaAuthService.MvcApplicationPartsAssemblyInfo.cache

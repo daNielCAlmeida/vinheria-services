@@ -1,0 +1,6 @@
+@VinheriaBatchTraceability_HostAddress = http://localhost:5265
+
+GET {{VinheriaBatchTraceability_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

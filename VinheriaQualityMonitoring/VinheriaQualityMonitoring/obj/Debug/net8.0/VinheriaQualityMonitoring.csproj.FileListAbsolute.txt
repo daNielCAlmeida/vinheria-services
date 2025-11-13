@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\FIAP\Vinheria_Services\VinheriaQualityMonitoring\VinheriaQualityMonitoring\obj\Debug\net8.0\VinheriaQualityMonitoring.MvcApplicationPartsAssemblyInfo.cache
